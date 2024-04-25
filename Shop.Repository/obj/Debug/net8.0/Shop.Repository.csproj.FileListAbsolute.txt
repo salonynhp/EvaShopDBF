@@ -1,0 +1,15 @@
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\bin\Debug\net8.0\Shop.Repository.deps.json
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\bin\Debug\net8.0\Shop.Repository.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\bin\Debug\net8.0\Shop.Repository.pdb
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.AssemblyInfo.cs
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\refint\Shop.Repository.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.pdb
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\ref\Shop.Repository.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\bin\Debug\net8.0\Shop.Entity.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\bin\Debug\net8.0\Shop.Entity.pdb
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Repository.csproj.AssemblyReference.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Repository\obj\Debug\net8.0\Shop.Rep.277DBBEE.Up2Date

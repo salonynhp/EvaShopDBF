@@ -1,0 +1,14 @@
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\bin\Debug\net8.0\Shop.Entity.deps.json
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\bin\Debug\net8.0\Shop.Entity.runtimeconfig.json
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\bin\Debug\net8.0\Shop.Entity.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\bin\Debug\net8.0\Shop.Entity.pdb
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.csproj.AssemblyReference.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.AssemblyInfo.cs
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\refint\Shop.Entity.dll
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.pdb
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\Shop.Entity.genruntimeconfig.cache
+C:\Users\salon\source\repos\DBFEvaShopAPI\Shop.Entity\obj\Debug\net8.0\ref\Shop.Entity.dll
